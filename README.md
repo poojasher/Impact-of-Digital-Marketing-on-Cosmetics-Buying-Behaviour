@@ -37,6 +37,7 @@ This project analyzes how digital marketing strategies influence consumer purcha
 
 Example:
 ![Dashboard 1](![Power BI Dashboard (3)](https://github.com/user-attachments/assets/a12fc15a-7415-430a-a38b-c4f4dc808650))
+
 ![Dashboard 2](![Tableau Dashboard (3)](https://github.com/user-attachments/assets/a4f65e28-041c-4383-af93-5a553f278566)
 )
 
@@ -47,14 +48,18 @@ Example:
 ### 📊 Tableau Dashboard
 
 [View Tableau Dashboard_1](https://public.tableau.com/views/ImpactofDigitalMarketingonCosmeticsBuyigBehaviour1/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 [View Tableau Dashboard_2](https://public.tableau.com/views/ImpactofDigitalMarketingonCosmeticsBuyigBehaviour2/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 [View Tableau Dashboard_3](https://public.tableau.com/views/ImpactofDigitalMarketingonCosmeticsBuyigBehaviour3/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 📈 Power BI Dashboard
 
-[View Power BI Dashboard_1](https://github.com/poojasher/Impact-of-Digital-Marketing-on-Cosmetics-Buying-Behaviour/blob/main/Power%20BI%20Dashboard%20(1).jpeg)
-[View Power BI Dashboard_2](https://github.com/poojasher/Impact-of-Digital-Marketing-on-Cosmetics-Buying-Behaviour/blob/main/Power%20BI%20Dashboard%20(2).jpeg)
-[View Power BI Dashboard_3](https://github.com/poojasher/Impact-of-Digital-Marketing-on-Cosmetics-Buying-Behaviour/blob/main/Power%20BI%20Dashboard%20(3).jpeg)
+[View Power BI Dashboard_1](https://github.com/poojasher/Impact-of-Digital-Marketing-on-Cosmetics-Buying-Behaviour/blob/main/powerBI/Power%20BI%20Dashboard%20(1).jpeg)
+
+[View Power BI Dashboard_2](https://github.com/poojasher/Impact-of-Digital-Marketing-on-Cosmetics-Buying-Behaviour/blob/main/powerBI/Power%20BI%20Dashboard%20(2).jpeg)
+
+[View Power BI Dashboard_3](https://github.com/poojasher/Impact-of-Digital-Marketing-on-Cosmetics-Buying-Behaviour/blob/main/powerBI/Power%20BI%20Dashboard%20(3).jpeg)
 
 ---
 
